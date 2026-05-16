@@ -1,0 +1,15 @@
+{
+  // تغيير ثيم المحرر
+  // Themes المتاحة: "Dark+", "Light+", "Monokai", "Solarized Dark", "One Dark Pro", "GitHub Dark", etc.
+  "workbench.colorTheme": "Cursor Dark",
+  
+  // يمكنك تغيير الثيم من خلال:
+  // 1. Ctrl+K Ctrl+T (أو Cmd+K Cmd+T على Mac)
+  // 2. أو من خلال File > Preferences > Theme > Color Theme
+  // 3. أو تغيير القيمة أعلاه إلى أي ثيم آخر متاح
+}
+
+
+
+
+
